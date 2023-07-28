@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋!This is Meenal Chourasiya
 
 ### 🌱 I’m currently learning Web Dev
 ###  📫 How to reach me: meenalchourasiya@gmail.com
